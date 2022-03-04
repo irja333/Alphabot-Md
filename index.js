@@ -842,13 +842,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Creator",
+              "displayText": "Grup",
               "url": `${youtube}`
             }
           },
           {
             "urlButton": {
-              "displayText": "Rest Api's",              
+              "displayText": "Instagram",              
               "url": `${myweb}`
 
             }
