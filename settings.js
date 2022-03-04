@@ -20,8 +20,8 @@ global.available = false //status online (online)
 // Other
 global.botname = "IRJA" //namabot kalian
 global.ownername= "IRJA" //nama kalian
-global.myweb ="https://chat.whatsapp.com/FoLUY9m1p4Y5pDsfUbITda" //bebas asal jan hapus
-global.youtube = "http://instagram.com/irja_official" //bebas asal jan hapus
+global.myweb ="http://instagram.com/irja_official" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com/FoLUY9m1p4Y5pDsfUbITda" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "irjaz110@gmail.com" //bebas
 global.region = "Indonesia" //bebas
